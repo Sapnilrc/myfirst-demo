@@ -1,4 +1,4 @@
 # myfirst-demo
 This is my first Git repo
 <br>
-Author-Sapnil Roy Choudhury
+Author-Sapnil Roy Choudhury (LNMIIT)
